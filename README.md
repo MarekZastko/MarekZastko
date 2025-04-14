@@ -12,6 +12,8 @@
 
 - ⚡ Proactive? Always. If there’s something that can be optimized, automated, or made 10x better, I’ll find it and make sure it happens
 
+- 🌐 You can check out my personal website and interactive resume at [marekzastko.com](http://www.marekzastko.com)
+
 <!---
 MarekZastko/MarekZastko is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
